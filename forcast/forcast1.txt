@@ -1,0 +1,54 @@
+Sun Dec 15 2019 13:24:16 GMT+0000 (GMT)
+Name : Casablanca           Id : 6547294
+
+	2019-12-15
+12:00:00   Temp min :  19   Temp max :  20
+15:00:00   Temp min :  19   Temp max :  20
+18:00:00   Temp min :  15   Temp max :  15
+21:00:00   Temp min :  14   Temp max :  14
+
+	2019-12-16
+00:00:00   Temp min :  13   Temp max :  13
+03:00:00   Temp min :  13   Temp max :  13
+06:00:00   Temp min :  13   Temp max :  13
+09:00:00   Temp min :  15   Temp max :  15
+12:00:00   Temp min :  20   Temp max :  20
+15:00:00   Temp min :  13   Temp max :  13
+18:00:00   Temp min :  12   Temp max :  12
+21:00:00   Temp min :  11   Temp max :  11
+
+	2019-12-17
+00:00:00   Temp min :  12   Temp max :  12
+03:00:00   Temp min :  11   Temp max :  11
+06:00:00   Temp min :  10   Temp max :  10
+09:00:00   Temp min :  11   Temp max :  11
+12:00:00   Temp min :  14   Temp max :  14
+15:00:00   Temp min :  14   Temp max :  14
+18:00:00   Temp min :  12   Temp max :  12
+21:00:00   Temp min :  11   Temp max :  11
+
+	2019-12-18
+00:00:00   Temp min :  11   Temp max :  11
+03:00:00   Temp min :  11   Temp max :  11
+06:00:00   Temp min :  11   Temp max :  11
+09:00:00   Temp min :  13   Temp max :  13
+12:00:00   Temp min :  18   Temp max :  18
+15:00:00   Temp min :  17   Temp max :  17
+18:00:00   Temp min :  16   Temp max :  16
+21:00:00   Temp min :  14   Temp max :  14
+
+	2019-12-19
+00:00:00   Temp min :  14   Temp max :  14
+03:00:00   Temp min :  14   Temp max :  14
+06:00:00   Temp min :  13   Temp max :  13
+09:00:00   Temp min :  14   Temp max :  14
+12:00:00   Temp min :  18   Temp max :  18
+15:00:00   Temp min :  19   Temp max :  19
+18:00:00   Temp min :  17   Temp max :  17
+21:00:00   Temp min :  15   Temp max :  15
+
+	2019-12-20
+00:00:00   Temp min :  15   Temp max :  15
+03:00:00   Temp min :  15   Temp max :  15
+06:00:00   Temp min :  15   Temp max :  15
+09:00:00   Temp min :  16   Temp max :  16

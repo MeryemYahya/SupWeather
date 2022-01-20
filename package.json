@@ -1,0 +1,35 @@
+{
+  "name": "supweather",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "concurrently \"nodemon --exec babel-node ./bin/www \" \"cd client && npm start\"  ",
+    "test": "mocha --exit",
+    "coverage": "nyc --reporter=text --reporter=html mocha --exit"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "concurrently": "^5.0.2",
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.0.0",
+    "express-session": "^1.17.0",
+    "helmet": "^3.21.2",
+    "mongoose": "^5.8.9",
+    "nodemon": "^2.0.2",
+    "validator": "^12.1.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.3",
+    "@babel/core": "^7.8.3",
+    "@babel/node": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "@babel/preset-react": "^7.8.3",
+    "chai": "^4.2.0",
+    "mocha": "^7.0.0",
+    "nyc": "^15.0.0",
+    "supertest": "^4.0.2"
+  }
+}
