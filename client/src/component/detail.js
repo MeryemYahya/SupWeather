@@ -74,7 +74,7 @@ class Detail extends Component {
         var c = url.searchParams.get("id");
         this.setState({ id: c })
 
-        Axios.get(`http://api.openweathermap.org/data/2.5/weather?id=${c}&APPID=dd4bfe9cf2ab6096faa67b6ef51b2bb0&units=metric`)
+        Axios.get(`http://api.openweathermap.org/data/2.5/weather?id=${c}&APPID=OpenWeatherMap_API_key&units=metric`)
             .then(response => {
                 this.setState({
                     weather: response.data.weather[0],
@@ -85,7 +85,7 @@ class Detail extends Component {
                 })
             })
 
-        Axios.get(`http://api.openweathermap.org/data/2.5/forecast?id=${c}&APPID=dd4bfe9cf2ab6096faa67b6ef51b2bb0&units=metric`)
+        Axios.get(`http://api.openweathermap.org/data/2.5/forecast?id=${c}&APPID=OpenWeatherMap_API_key&units=metric`)
             .then(response => {
                 var forcast = response.data.list
                 var date = new Date()
