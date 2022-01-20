@@ -24,7 +24,7 @@ class CityCard extends Component {
     }
 
     componentDidMount() {
-        Axios.get(`http://api.openweathermap.org/data/2.5/weather?id=${this.props.idCity}&APPID=dd4bfe9cf2ab6096faa67b6ef51b2bb0&units=metric`)
+        Axios.get(`http://api.openweathermap.org/data/2.5/weather?id=${this.props.idCity}&APPID=OpenWeatherMap_API_key&units=metric`)
             .then(response => {
                 this.setState({
                     weather: response.data.weather[0],
